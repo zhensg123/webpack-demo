@@ -1,0 +1,13 @@
+{
+  "name": "webpack-demo7",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.41.5"
+  }
+}

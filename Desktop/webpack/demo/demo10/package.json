@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
